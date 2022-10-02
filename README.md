@@ -35,9 +35,11 @@ $ npm run test:cov
 ```
 
 ## Postman Collection
-[Collection Link](https://postman.com/collections/60cff4fe3065ccb88e60)
+- Download[ Collection Link](https://postman.com/collections/60cff4fe3065ccb88e60)
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/7687028-1eb689a5-3c55-40c2-98ae-419a1989a697?action=collection%2Ffork&collection-url=entityId%3D7687028-1eb689a5-3c55-40c2-98ae-419a1989a697%26entityType%3Dcollection%26workspaceId%3D5012cd01-5f66-47f9-82c8-d4475f503b51)
+- Or 
+  
+  [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/7687028-1eb689a5-3c55-40c2-98ae-419a1989a697?action=collection%2Ffork&collection-url=entityId%3D7687028-1eb689a5-3c55-40c2-98ae-419a1989a697%26entityType%3Dcollection%26workspaceId%3D5012cd01-5f66-47f9-82c8-d4475f503b51)
 
 ## Authentication and Authorization
 - Authentication using jwt Bearer token and [passport js library](https://passportjs.org) 
