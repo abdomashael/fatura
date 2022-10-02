@@ -43,4 +43,6 @@ $ npm run test:cov
   - using roles which every user have number of roles identify what can he access
   - every endpoint have guard with roles which can access it
 
-
+## Database
+- I used Typeorm as abstract layer between service and databse which we can change it at any time with nearly effort or code base change
+- In this example I used mongoDB as datastore
